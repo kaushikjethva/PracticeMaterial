@@ -1,0 +1,11 @@
+{
+  "Developer": {
+    "Name": "Kaushik",
+    "Domain": ".Net Core",
+    "Experience": 10,
+    "Address": {
+      "City": "Mumbai",
+      "Street": "Street1"
+    }
+  }
+}

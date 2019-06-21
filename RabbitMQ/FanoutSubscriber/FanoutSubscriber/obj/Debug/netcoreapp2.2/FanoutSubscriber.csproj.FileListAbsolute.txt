@@ -1,0 +1,11 @@
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\bin\Debug\netcoreapp2.2\FanoutSubscriber.deps.json
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\bin\Debug\netcoreapp2.2\FanoutSubscriber.runtimeconfig.json
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\bin\Debug\netcoreapp2.2\FanoutSubscriber.runtimeconfig.dev.json
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\bin\Debug\netcoreapp2.2\FanoutSubscriber.dll
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\obj\Debug\netcoreapp2.2\FanoutSubscriber.csproj.CoreCompileInputs.cache
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\obj\Debug\netcoreapp2.2\FanoutSubscriber.AssemblyInfoInputs.cache
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\obj\Debug\netcoreapp2.2\FanoutSubscriber.AssemblyInfo.cs
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\bin\Debug\netcoreapp2.2\FanoutSubscriber.pdb
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\obj\Debug\netcoreapp2.2\FanoutSubscriber.csprojAssemblyReference.cache
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\obj\Debug\netcoreapp2.2\FanoutSubscriber.dll
+D:\KaushikJ\RabbitMQ\FanoutSubscriber\FanoutSubscriber\obj\Debug\netcoreapp2.2\FanoutSubscriber.pdb

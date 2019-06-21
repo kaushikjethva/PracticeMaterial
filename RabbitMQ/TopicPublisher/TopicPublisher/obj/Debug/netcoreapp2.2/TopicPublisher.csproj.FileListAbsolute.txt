@@ -1,0 +1,11 @@
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.deps.json
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.json
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.dev.json
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csprojAssemblyReference.cache
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csproj.CoreCompileInputs.cache
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfoInputs.cache
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfo.cs
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.pdb
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\KaushikJ\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.pdb

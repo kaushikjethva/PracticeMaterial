@@ -1,0 +1,14 @@
+D:\KaushikJ\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.deps.json
+D:\KaushikJ\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.runtimeconfig.json
+D:\KaushikJ\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.runtimeconfig.dev.json
+D:\KaushikJ\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.dll
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.csproj.CoreCompileInputs.cache
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.RazorAssemblyInfo.cache
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.RazorAssemblyInfo.cs
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.AssemblyInfoInputs.cache
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.AssemblyInfo.cs
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\KaushikJ\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.pdb
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.dll
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.pdb
+D:\KaushikJ\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.csprojAssemblyReference.cache

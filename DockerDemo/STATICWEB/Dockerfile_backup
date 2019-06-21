@@ -1,0 +1,10 @@
+FROM nginx:latest
+
+LABEL Author = "Kaushik Jethva"
+LABEL Version = "1.0"
+
+WORKDIR /usr/share/nginx/html
+
+COPY . .
+
+EXPOSE 80

@@ -1,0 +1,8 @@
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.csprojAssemblyReference.cache
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.csproj.CoreCompileInputs.cache
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.RazorAssemblyInfo.cache
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.RazorAssemblyInfo.cs
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.AssemblyInfoInputs.cache
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.AssemblyInfo.cs
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.dll
+D:\KaushikJ\WebAppConfiguration\WebAppConfiguration\obj\Debug\netcoreapp2.1\WebAppConfiguration.pdb

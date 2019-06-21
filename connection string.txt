@@ -1,0 +1,4 @@
+Data Source=PULT-TR04-03;Initial Catalog=cachedb;Integrated Security=True
+
+
+dotnet sql-cache create "Data Source=PULT-TR04-03;Initial Catalog=cachedb;Integrated Security=True" dbo CreateTable

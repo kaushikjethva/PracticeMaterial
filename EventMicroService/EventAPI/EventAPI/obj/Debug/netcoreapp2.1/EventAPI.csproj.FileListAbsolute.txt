@@ -1,0 +1,14 @@
+D:\KaushikJ\EventAPI\EventAPI\bin\Debug\netcoreapp2.1\EventAPI.deps.json
+D:\KaushikJ\EventAPI\EventAPI\bin\Debug\netcoreapp2.1\EventAPI.runtimeconfig.json
+D:\KaushikJ\EventAPI\EventAPI\bin\Debug\netcoreapp2.1\EventAPI.runtimeconfig.dev.json
+D:\KaushikJ\EventAPI\EventAPI\bin\Debug\netcoreapp2.1\EventAPI.dll
+D:\KaushikJ\EventAPI\EventAPI\bin\Debug\netcoreapp2.1\EventAPI.pdb
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.csproj.CoreCompileInputs.cache
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.RazorAssemblyInfo.cache
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.RazorAssemblyInfo.cs
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.AssemblyInfoInputs.cache
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.AssemblyInfo.cs
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.RazorTargetAssemblyInfo.cache
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.dll
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.pdb
+D:\KaushikJ\EventAPI\EventAPI\obj\Debug\netcoreapp2.1\EventAPI.csprojAssemblyReference.cache

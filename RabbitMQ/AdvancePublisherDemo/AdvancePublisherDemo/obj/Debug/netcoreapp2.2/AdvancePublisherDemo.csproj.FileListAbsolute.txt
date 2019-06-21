@@ -1,0 +1,11 @@
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\bin\Debug\netcoreapp2.2\AdvancePublisherDemo.deps.json
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\bin\Debug\netcoreapp2.2\AdvancePublisherDemo.runtimeconfig.json
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\bin\Debug\netcoreapp2.2\AdvancePublisherDemo.runtimeconfig.dev.json
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\bin\Debug\netcoreapp2.2\AdvancePublisherDemo.dll
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\obj\Debug\netcoreapp2.2\AdvancePublisherDemo.csprojAssemblyReference.cache
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\obj\Debug\netcoreapp2.2\AdvancePublisherDemo.csproj.CoreCompileInputs.cache
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\obj\Debug\netcoreapp2.2\AdvancePublisherDemo.AssemblyInfoInputs.cache
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\obj\Debug\netcoreapp2.2\AdvancePublisherDemo.AssemblyInfo.cs
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\bin\Debug\netcoreapp2.2\AdvancePublisherDemo.pdb
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\obj\Debug\netcoreapp2.2\AdvancePublisherDemo.dll
+D:\KaushikJ\RabbitMQ\AdvancePublisherDemo\AdvancePublisherDemo\obj\Debug\netcoreapp2.2\AdvancePublisherDemo.pdb
